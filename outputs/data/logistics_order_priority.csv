@@ -1,0 +1,5 @@
+﻿order_priority,Avg_ShippingDays,Median_ShippingDays,Max_ShippingDays,Order_Count
+Critical,1.8062,2.0,3,1967
+High,3.0858,4.0,5,7767
+Medium,4.5165,5.0,7,14484
+Low,6.4847,6.0,7,1212

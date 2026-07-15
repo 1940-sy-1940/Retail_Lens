@@ -1,0 +1,4 @@
+﻿category,Total_Sales,Total_Profit,Total_Quantity,Avg_Discount,Avg_Profit_Rate,Order_Count,Sales_Share,Quantity_Share,Is_LowSales
+Technology,3078022.0698,322332.2067,34809.0,0.1257,0.1009,8354,0.3482,0.1974,否
+Office Supplies,3007390.016,392508.1007,106936.5,0.123,0.1235,19003,0.3402,0.6063,否
+Furniture,2754890.1459,213120.9636,34627.0,0.1568,0.064,8195,0.3116,0.1963,是

@@ -1,0 +1,5 @@
+﻿ship_mode,Avg_ShippingDays,Median_ShippingDays,Max_ShippingDays,Order_Count
+Same Day,0.0374,0.0,1,1347
+First Class,2.1817,2.0,3,3821
+Second Class,3.2302,3.0,5,5119
+Standard Class,4.998,5.0,7,15154
